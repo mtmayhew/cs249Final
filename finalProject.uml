@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>cs249.finalProject</OriginalElement>
+  <nodes>
+    <node x="304.0" y="0.0">cs249.finalProject.TMDBConfiguration</node>
+    <node x="268.0" y="449.0">cs249.finalProject.HttpConnectionHandler</node>
+    <node x="0.0" y="449.0">cs249.finalProject.TMDBTester</node>
+    <node x="0.0" y="0.0">cs249.finalProject.TMDBMainHandler</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="186.5" y="291.0" />
+  <SelectedNodes>
+    <node>cs249.finalProject.TMDBConfiguration</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
